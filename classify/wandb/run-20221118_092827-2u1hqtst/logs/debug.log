@@ -1,0 +1,6 @@
+2022-11-18 09:28:27,138 INFO    MainThread:28804 [wandb_setup.py:_flush():70] setting env: {}
+2022-11-18 09:28:27,138 INFO    MainThread:28804 [wandb_setup.py:_flush():70] multiprocessing start_methods=spawn
+2022-11-18 09:28:27,138 INFO    MainThread:28804 [wandb_setup.py:_flush():70] setting login settings: {}
+2022-11-18 09:28:27,138 INFO    MainThread:28804 [wandb_init.py:_log_setup():303] Logging user logs to D:\code\yolov5-master\classify\wandb\run-20221118_092827-2u1hqtst\logs\debug.log
+2022-11-18 09:28:27,139 INFO    MainThread:28804 [wandb_init.py:_log_setup():304] Logging internal logs to D:\code\yolov5-master\classify\wandb\run-20221118_092827-2u1hqtst\logs\debug-internal.log
+2022-11-18 09:29:03,702 INFO    MainThread:28804 [wandb_init.py:teardown():163] tearing down wandb.init

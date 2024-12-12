@@ -1,0 +1,79 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.10.12
+    framework: torch
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.8.5
+batch_size:
+  desc: null
+  value: 64
+cache:
+  desc: null
+  value: null
+cutoff:
+  desc: null
+  value: null
+data:
+  desc: null
+  value: imagenette160
+decay:
+  desc: null
+  value: 5.0e-05
+device:
+  desc: null
+  value: ''
+dropout:
+  desc: null
+  value: null
+epochs:
+  desc: null
+  value: 10
+exist_ok:
+  desc: null
+  value: false
+imgsz:
+  desc: null
+  value: 224
+label_smoothing:
+  desc: null
+  value: 0.1
+local_rank:
+  desc: null
+  value: -1
+lr0:
+  desc: null
+  value: 0.001
+model:
+  desc: null
+  value: yolov5s-cls.pt
+name:
+  desc: null
+  value: run-20230924_162645-c9elreke_VOC_yolov5s_0.753
+nosave:
+  desc: null
+  value: false
+optimizer:
+  desc: null
+  value: Adam
+pretrained:
+  desc: null
+  value: true
+project:
+  desc: null
+  value: ..\runs\train-cls
+save_dir:
+  desc: null
+  value: ..\runs\train-cls\exp4
+seed:
+  desc: null
+  value: 0
+verbose:
+  desc: null
+  value: false
+workers:
+  desc: null
+  value: 8

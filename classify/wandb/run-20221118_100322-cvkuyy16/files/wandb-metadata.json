@@ -1,0 +1,18 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.5",
+    "heartbeatAt": "2022-11-18T02:03:24.371440",
+    "startedAt": "2022-11-18T02:03:22.565300",
+    "docker": null,
+    "gpu": "GeForce RTX 3070",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "codePath": "train.py",
+    "program": "D:/code/yolov5-master/classify/train.py",
+    "host": "pcd",
+    "username": "admin",
+    "executable": "D:\\ProgramData\\Anaconda3\\envs\\yolov5\\python.exe"
+}
